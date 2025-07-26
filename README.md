@@ -31,6 +31,13 @@ TapShield is a compact wearable SOS device designed for emergency situations. Wi
 
 TapShield can recognize different tap patterns using a trained **TinyML model** deployed via **Edge Impulse**. Patterns like *double tap*, *triple tap*, or *long press* can trigger distinct safety actions.
 
+---
+## folder structure
+|_arduino_code
+|_ML
+|_images
+presention
+
 ### Example:
 | Tap Pattern | Action                       |
 |-------------|------------------------------|
